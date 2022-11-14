@@ -1,0 +1,142 @@
+body{
+    margin:20px;
+    background-color: #abc4ff;
+}
+footer{
+    text-align:center;
+    margin-top: 50px;
+}
+img{
+    width:250px;
+    height: 250px;
+}
+.logo1{
+    color:#161925;
+    padding: 5px;
+    display:flex;
+    margin-left:auto;
+    margin-right: auto;
+    background-color:#dd7230;
+    width:fit-content;
+    border-radius:20px;
+}
+.row1{
+    margin-top: 20px;
+    padding: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #9ec5ab;
+    margin-left:auto;
+    margin-right: auto;
+    display:flex;
+    border-radius:20px;
+    width:fit-content;
+    margin-top: 20px;
+}
+.row11{
+      margin-left: 20px;
+      margin-right: 20px;
+      padding: 30px 30px 20px 30px;
+      background-color: #69747c;
+      border-radius:20px;
+}
+.movie1{
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+    text-align:center;
+    background-color: #545454;
+    border-radius:20px;
+}
+
+.row2{
+    margin-top: 20px;
+    padding: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #f6bd60;
+    margin-left:auto;
+    margin-right: auto;
+    display:flex;
+    border-radius:20px;
+    width:fit-content;
+    margin-top: 20px;
+}
+.row21{
+      margin-left: 20px;
+      margin-right: 20px;
+      padding: 30px 30px 20px 30px;
+      background-color: #f7ede2;
+      border-radius:20px;
+}
+.movie2{
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+    text-align:center;
+    background-color: #f5cac3;
+    border-radius:20px;
+}
+
+
+.row3{
+    margin-top: 20px;
+    padding: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #1d3557;
+    margin-left:auto;
+    margin-right: auto;
+    display:flex;
+    border-radius:20px;
+    width:fit-content;
+    margin-top: 20px;
+}
+.row31{
+      margin-left: 20px;
+      margin-right: 20px;
+      padding: 30px 30px 20px 30px;
+      background-color: #628cb2;
+      border-radius:20px;
+}
+.movie3{
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+    text-align:center;
+    background-color: #f7f0f5;
+    border-radius:20px;
+}
+
+
+
+
+.row4{
+    margin-top: 20px;
+    padding: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #6c4e92;
+    margin-left:auto;
+    margin-right: auto;
+    display:flex;
+    border-radius:20px;
+    width:fit-content;
+    margin-top: 20px;
+}
+.row41{
+      margin-left: 20px;
+      margin-right: 20px;
+      padding: 30px 30px 20px 30px;
+      background-color: #d5e88d;
+      border-radius:20px;
+}
+.movie4{
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+    text-align:center;
+    background-color: #fff9f9;
+    border-radius:20px;
+}
+
